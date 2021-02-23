@@ -3,5 +3,5 @@ document.getElementById("go-down").onclick = function() {
     elmntToView.scrollIntoView();
 };
 document.getElementById("centosdead").onclick = function() {
-    location.href = "/centos-death.html";
+    location.href = "../centos-death.html";
 };
