@@ -4,6 +4,13 @@
     --main-highlight-color: #a40e4c;
 }
 
+::selection {
+    background: var(--main-highlight-color); /* WebKit/Blink Browsers */
+}
+  ::-moz-selection {
+    background: var(--main-highlight-color); /* Gecko Browsers */
+}
+
 * {
     box-sizing: border-box;
 }

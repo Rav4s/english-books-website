@@ -23,3 +23,6 @@ document.getElementById("imacg3stevejobs").onclick = function() {
 document.getElementById("googlefloc").onclick = function() {
     location.href = "./googleflocterrible.html";
 };
+document.getElementById("oedipustheking").onclick = function() {
+    location.href = "./oedipustheking.html";
+};
