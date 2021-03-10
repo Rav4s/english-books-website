@@ -20,3 +20,6 @@ document.getElementById("sonnetxii").onclick = function() {
 document.getElementById("imacg3stevejobs").onclick = function() {
     location.href = "./imacg3stevejobs.html";
 };
+document.getElementById("googlefloc").onclick = function() {
+    location.href = "./googleflocterrible.html";
+};
