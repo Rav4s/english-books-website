@@ -26,3 +26,6 @@ document.getElementById("googlefloc").onclick = function() {
 document.getElementById("oedipustheking").onclick = function() {
     location.href = "./oedipustheking.html";
 };
+document.getElementById("appleovertooksamsung").onclick = function() {
+    location.href = "./appleovertooksamsung.html";
+};

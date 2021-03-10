@@ -305,7 +305,7 @@ h1 {
     }
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1048px) {
     .Navbar__Items,
     .Navbar {
         flex-direction: column;
