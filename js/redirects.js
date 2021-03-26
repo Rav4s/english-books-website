@@ -29,3 +29,6 @@ document.getElementById("oedipustheking").onclick = function() {
 document.getElementById("appleovertooksamsung").onclick = function() {
     location.href = "./appleovertooksamsung.html";
 };
+document.getElementById("rtxbetadriverhack").onclick = function() {
+    location.href = "./rtxbetadriverhack.html";
+};
