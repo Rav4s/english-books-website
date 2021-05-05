@@ -32,3 +32,6 @@ document.getElementById("appleovertooksamsung").onclick = function() {
 document.getElementById("rtxbetadriverhack").onclick = function() {
     location.href = "./rtxbetadriverhack.html";
 };
+document.getElementById("basecamp").onclick = function() {
+    location.href = "./basecampemployeesleave.html";
+};
