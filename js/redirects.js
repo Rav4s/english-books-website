@@ -35,3 +35,12 @@ document.getElementById("rtxbetadriverhack").onclick = function() {
 document.getElementById("basecamp").onclick = function() {
     location.href = "./basecampemployeesleave.html";
 };
+document.getElementById("african-americans").onclick = function() {
+    location.href = "./africanamericans.html";
+};
+document.getElementById("jimcrow").onclick = function() {
+    location.href = "./jimcrow.html";
+};
+document.getElementById("busboycott").onclick = function() {
+    location.href = "./busboycott.html";
+};
