@@ -44,3 +44,9 @@ document.getElementById("jimcrow").onclick = function() {
 document.getElementById("busboycott").onclick = function() {
     location.href = "./busboycott.html";
 };
+document.getElementById("ww2civilrights").onclick = function() {
+    location.href = "./ww2civilrights.html";
+};
+document.getElementById("worldwar2").onclick = function() {
+    location.href = "./worldwar2.html";
+};
