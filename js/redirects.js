@@ -56,3 +56,6 @@ document.getElementById("macmini10g").onclick = function() {
 document.getElementById("newmalware").onclick = function() {
     location.href = "./newmalware.html";
 };
+document.getElementById("magic").onclick = function() {
+    location.href = "./magic.html";
+};
