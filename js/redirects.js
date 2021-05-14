@@ -50,3 +50,6 @@ document.getElementById("ww2civilrights").onclick = function() {
 document.getElementById("worldwar2").onclick = function() {
     location.href = "./worldwar2.html";
 };
+document.getElementById("macmini10g").onclick = function() {
+    location.href = "./macmini10g.html";
+};
