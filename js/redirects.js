@@ -53,3 +53,6 @@ document.getElementById("worldwar2").onclick = function() {
 document.getElementById("macmini10g").onclick = function() {
     location.href = "./macmini10g.html";
 };
+document.getElementById("newmalware").onclick = function() {
+    location.href = "./newmalware.html";
+};
