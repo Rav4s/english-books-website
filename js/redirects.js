@@ -59,3 +59,6 @@ document.getElementById("newmalware").onclick = function() {
 document.getElementById("magic").onclick = function() {
     location.href = "./magic.html";
 };
+document.getElementById("twits").onclick = function() {
+    location.href = "./twits.html";
+};
